@@ -1,0 +1,12 @@
+{
+  "name": "weigthy-bot-amplify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "amplify:weightybot": "cd amplify/backend/function/weightybot/src && npm install && npm run tsc && cd -"
+  },
+  "author": "",
+  "license": "ISC"
+}

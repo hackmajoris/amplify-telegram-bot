@@ -1,0 +1,10 @@
+{
+  "resourceName": "weightybotdb",
+  "tableName": "weightybotdb",
+  "partitionKey": {
+    "fieldName": "identifier",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

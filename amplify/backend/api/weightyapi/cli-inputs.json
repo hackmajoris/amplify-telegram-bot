@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/action": {
+      "name": "/action",
+      "lambdaFunction": "weightybot",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

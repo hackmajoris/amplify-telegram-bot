@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-weightybot-dev-171945-authRole",
+      "UnauthRoleArn": "arn:aws:iam::133874726017:role/amplify-weightybot-dev-171945-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::133874726017:role/amplify-weightybot-dev-171945-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-weightybot-dev-171945-deployment",
+      "UnauthRoleName": "amplify-weightybot-dev-171945-unauthRole",
+      "StackName": "amplify-weightybot-dev-171945",
+      "StackId": "arn:aws:cloudformation:eu-central-1:133874726017:stack/amplify-weightybot-dev-171945/f7464330-7167-11ec-a4ce-021ac511f148",
+      "AmplifyAppId": "d1wznzax9ir6zr",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-weightybot-dev-171945-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "undefined": {}
+      },
+      "function": {
+        "weightybot": {
+          "deploymentBucketName": "amplify-weightybot-dev-171945-deployment",
+          "s3Key": "amplify-builds/weightybot-48365543462b304b6b6f-build.zip",
+          "botToken": "5006779022:AAGbtfr-pM3qWTyg33VlbBAF1hfQ56owUII"
+        }
+      }
+    }
+  }
+}
